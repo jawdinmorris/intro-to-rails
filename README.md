@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Learning how to use Ruby On Rails through multiple small projects.
 
-Things you may want to cover:
+Created with:
+Ruby 2.3.3
+Rails 5.1.5
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Projects completed:
+Portfolio HTML/CSS
+Disaster Relief Array
+Games Array
